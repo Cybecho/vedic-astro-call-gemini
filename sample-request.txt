@@ -1,0 +1,648 @@
+{
+  "chart": {
+    "user": {
+      "datetime": "2000-02-07 06:00:00",
+      "timezone": "+09:00",
+      "longitude": 127.0286,
+      "latitude": 37.2635,
+      "altitude": 0
+    },
+    "graha": {
+      "Su": {
+        "longitude": 293.5253596,
+        "latitude": -0.0000895,
+        "speed": 1.0137647,
+        "ascension": 319.8307442,
+        "declination": -15.6243859,
+        "rashi": 10,
+        "degree": 23.5253596,
+        "nakshatra": {
+          "anga": "nakshatra",
+          "key": 23,
+          "ratio": 1,
+          "abhijit": false,
+          "left": 98.5598030000001,
+          "name": "Dhanishta",
+          "pada": 1
+        },
+        "astangata": null,
+        "rashiAvastha": "enemy",
+        "vargottama": false,
+        "yuddha": null
+      },
+      "Mo": {
+        "longitude": 308.7481214,
+        "latitude": -2.5528736,
+        "speed": 12.5874556,
+        "ascension": 335.5121891,
+        "declination": -12.9264774,
+        "rashi": 11,
+        "degree": 8.7481214,
+        "nakshatra": {
+          "anga": "nakshatra",
+          "key": 24,
+          "ratio": 1,
+          "abhijit": false,
+          "left": 84.3890895000001,
+          "name": "Shatabhisha",
+          "pada": 1
+        },
+        "astangata": false,
+        "rashiAvastha": "neutral",
+        "vargottama": false,
+        "yuddha": null
+      },
+      "Ma": {
+        "longitude": 332.1940771,
+        "latitude": -0.5968396,
+        "speed": 0.7656859,
+        "ascension": 356.614443,
+        "declination": -2.1169505,
+        "rashi": 12,
+        "degree": 2.19407710000002,
+        "nakshatra": {
+          "anga": "nakshatra",
+          "key": 25,
+          "ratio": 1,
+          "abhijit": false,
+          "left": 8.54442175,
+          "name": "Purva Bhadrapada",
+          "pada": 4
+        },
+        "astangata": false,
+        "rashiAvastha": "friend",
+        "vargottama": false,
+        "yuddha": false
+      },
+      "Me": {
+        "longitude": 308.6876259,
+        "latitude": -0.8285337,
+        "speed": 1.6301727,
+        "ascension": 334.8175009,
+        "declination": -11.3403604,
+        "rashi": 11,
+        "degree": 8.6876259,
+        "nakshatra": {
+          "anga": "nakshatra",
+          "key": 24,
+          "ratio": 1,
+          "abhijit": false,
+          "left": 84.8428057500001,
+          "name": "Shatabhisha",
+          "pada": 1
+        },
+        "astangata": false,
+        "rashiAvastha": "neutral",
+        "vargottama": false,
+        "yuddha": false
+      },
+      "Ju": {
+        "longitude": 4.9059359,
+        "latitude": -1.0903226,
+        "speed": 0.1454743,
+        "ascension": 27.125324,
+        "declination": 10.0158516,
+        "rashi": 1,
+        "degree": 4.9059359,
+        "nakshatra": {
+          "anga": "nakshatra",
+          "key": 1,
+          "ratio": 1,
+          "abhijit": false,
+          "left": 63.20548075,
+          "name": "Ashwini",
+          "pada": 2
+        },
+        "astangata": false,
+        "rashiAvastha": "friend",
+        "vargottama": false,
+        "yuddha": false
+      },
+      "Ve": {
+        "longitude": 262.1868956,
+        "latitude": 0.4912347,
+        "speed": 1.2317948,
+        "ascension": 287.3415419,
+        "declination": -21.9872679,
+        "rashi": 9,
+        "degree": 22.1868956,
+        "nakshatra": {
+          "anga": "nakshatra",
+          "key": 20,
+          "ratio": 1,
+          "abhijit": false,
+          "left": 33.598283,
+          "name": "Purva Ashadha",
+          "pada": 3
+        },
+        "astangata": false,
+        "rashiAvastha": "neutral",
+        "vargottama": false,
+        "yuddha": false
+      },
+      "Sa": {
+        "longitude": 17.0437833,
+        "latitude": -2.2668329,
+        "speed": 0.0468192,
+        "ascension": 39.2021592,
+        "declination": 12.9416725,
+        "rashi": 1,
+        "degree": 17.0437833,
+        "nakshatra": {
+          "anga": "nakshatra",
+          "key": 2,
+          "ratio": 1,
+          "abhijit": false,
+          "left": 72.17162525,
+          "name": "Bharani",
+          "pada": 2
+        },
+        "astangata": false,
+        "rashiAvastha": "neecha",
+        "vargottama": false,
+        "yuddha": false
+      },
+      "Ra": {
+        "longitude": 99.8644324,
+        "latitude": 0,
+        "speed": -0.0242717,
+        "ascension": 126.0369403,
+        "declination": 19.3200034,
+        "rashi": 4,
+        "degree": 9.8644324,
+        "nakshatra": {
+          "anga": "nakshatra",
+          "key": 8,
+          "ratio": 1,
+          "abhijit": false,
+          "left": 51.0167570000001,
+          "name": "Pushya",
+          "pada": 2
+        },
+        "astangata": null,
+        "rashiAvastha": "enemy",
+        "vargottama": false,
+        "yuddha": null
+      },
+      "Ke": {
+        "longitude": 279.8644324,
+        "latitude": 0,
+        "speed": -0.0242717,
+        "rashi": 10,
+        "degree": 9.8644324,
+        "ascension": 306.0369403,
+        "declination": 19.3200034,
+        "nakshatra": {
+          "anga": "nakshatra",
+          "key": 21,
+          "ratio": 1,
+          "abhijit": false,
+          "left": 1.01675700000011,
+          "name": "Uttara Ashadha",
+          "pada": 4
+        },
+        "astangata": null,
+        "rashiAvastha": "enemy",
+        "vargottama": false,
+        "yuddha": null
+      }
+    },
+    "bhava": {
+      "1": {
+        "longitude": 264.91279,
+        "ascension": 264.4579816,
+        "declination": -23.3414521,
+        "rashi": 9,
+        "degree": 24.91279
+      },
+      "2": {
+        "longitude": 294.91279,
+        "ascension": 296.8498449,
+        "declination": -21.1471009,
+        "rashi": 10,
+        "degree": 24.91279
+      },
+      "3": {
+        "longitude": 324.91279,
+        "ascension": 327.1977586,
+        "declination": -13.2176678,
+        "rashi": 11,
+        "degree": 24.91279
+      },
+      "4": {
+        "longitude": 354.91279,
+        "ascension": 355.3306362,
+        "declination": -2.0213355,
+        "rashi": 12,
+        "degree": 24.91279
+      },
+      "5": {
+        "longitude": 24.91279,
+        "ascension": 23.0803104,
+        "declination": 9.6459127,
+        "rashi": 1,
+        "degree": 24.91279
+      },
+      "6": {
+        "longitude": 54.91279,
+        "ascension": 52.560208,
+        "declination": 18.995385,
+        "rashi": 2,
+        "degree": 24.91279
+      },
+      "7": {
+        "longitude": 84.91279,
+        "ascension": 84.4579816,
+        "declination": 23.3414521,
+        "rashi": 3,
+        "degree": 24.91279
+      },
+      "8": {
+        "longitude": 114.91279,
+        "ascension": 116.8498449,
+        "declination": 21.1471009,
+        "rashi": 4,
+        "degree": 24.91279
+      },
+      "9": {
+        "longitude": 144.91279,
+        "ascension": 147.1977586,
+        "declination": 13.2176678,
+        "rashi": 5,
+        "degree": 24.91279
+      },
+      "10": {
+        "longitude": 174.91279,
+        "ascension": 175.3306362,
+        "declination": 2.0213355,
+        "rashi": 6,
+        "degree": 24.91279
+      },
+      "11": {
+        "longitude": 204.91279,
+        "ascension": 203.0803104,
+        "declination": -9.6459127,
+        "rashi": 7,
+        "degree": 24.91279
+      },
+      "12": {
+        "longitude": 234.91279,
+        "ascension": 232.560208,
+        "declination": -18.995385,
+        "rashi": 8,
+        "degree": 24.91279
+      }
+    },
+    "lagna": {
+      "Lg": {
+        "longitude": 264.91279,
+        "ascension": 264.4579816,
+        "declination": -23.3414521,
+        "rashi": 9,
+        "degree": 24.91279,
+        "nakshatra": {
+          "anga": "nakshatra",
+          "key": 20,
+          "ratio": 1,
+          "abhijit": false,
+          "left": 13.1540750000003,
+          "name": "Purva Ashadha",
+          "pada": 4
+        }
+      },
+      "MLg": {
+        "longitude": 196.9056309,
+        "ascension": 195.5811767,
+        "declination": -6.6423854,
+        "rashi": 7,
+        "degree": 16.9056309
+      }
+    },
+    "dasha": {
+      "nesting": 0,
+      "type": "vimshottari",
+      "key": "",
+      "duration": 3786834240,
+      "start": "1997-04-16 22:21:44",
+      "end": "2117-04-17 00:45:44",
+      "periods": {
+        "Ra": {
+          "nesting": 1,
+          "type": "mahadasha",
+          "key": "Ra",
+          "duration": 568025136,
+          "start": "1997-04-16 22:21:44",
+          "end": "2015-04-17 07:07:20"
+        },
+        "Ju": {
+          "nesting": 1,
+          "type": "mahadasha",
+          "key": "Ju",
+          "duration": 504911232,
+          "start": "2015-04-17 07:07:20",
+          "end": "2031-04-17 04:14:32"
+        },
+        "Sa": {
+          "nesting": 1,
+          "type": "mahadasha",
+          "key": "Sa",
+          "duration": 599582088,
+          "start": "2031-04-17 04:14:32",
+          "end": "2050-04-16 18:49:20"
+        },
+        "Me": {
+          "nesting": 1,
+          "type": "mahadasha",
+          "key": "Me",
+          "duration": 536468184,
+          "start": "2050-04-16 18:49:20",
+          "end": "2067-04-16 21:45:44"
+        },
+        "Ke": {
+          "nesting": 1,
+          "type": "mahadasha",
+          "key": "Ke",
+          "duration": 220898664,
+          "start": "2067-04-16 21:45:44",
+          "end": "2074-04-16 14:30:08"
+        },
+        "Ve": {
+          "nesting": 1,
+          "type": "mahadasha",
+          "key": "Ve",
+          "duration": 631139040,
+          "start": "2074-04-16 14:30:08",
+          "end": "2094-04-16 10:54:08"
+        },
+        "Su": {
+          "nesting": 1,
+          "type": "mahadasha",
+          "key": "Su",
+          "duration": 189341712,
+          "start": "2094-04-16 10:54:08",
+          "end": "2100-04-16 21:49:20"
+        },
+        "Mo": {
+          "nesting": 1,
+          "type": "mahadasha",
+          "key": "Mo",
+          "duration": 315569520,
+          "start": "2100-04-16 21:49:20",
+          "end": "2110-04-17 08:01:20"
+        },
+        "Ma": {
+          "nesting": 1,
+          "type": "mahadasha",
+          "key": "Ma",
+          "duration": 220898664,
+          "start": "2110-04-17 08:01:20",
+          "end": "2117-04-17 00:45:44"
+        }
+      }
+    },
+    "houses": {
+      "1": {
+        "graha": {
+          "Ve": {
+            "longitude": 262.1868956,
+            "latitude": 0.4912347,
+            "speed": 1.2317948,
+            "ascension": 287.3415419,
+            "declination": -21.9872679,
+            "rashi": 9,
+            "degree": 22.1868956,
+            "nakshatra": {
+              "anga": "nakshatra",
+              "key": 20,
+              "ratio": 1,
+              "abhijit": false,
+              "left": 33.598283,
+              "name": "Purva Ashadha",
+              "pada": 3
+            },
+            "astangata": false,
+            "rashiAvastha": "neutral",
+            "vargottama": false,
+            "yuddha": false
+          }
+        }
+      },
+      "2": {
+        "graha": {
+          "Su": {
+            "longitude": 293.5253596,
+            "latitude": -0.0000895,
+            "speed": 1.0137647,
+            "ascension": 319.8307442,
+            "declination": -15.6243859,
+            "rashi": 10,
+            "degree": 23.5253596,
+            "nakshatra": {
+              "anga": "nakshatra",
+              "key": 23,
+              "ratio": 1,
+              "abhijit": false,
+              "left": 98.5598030000001,
+              "name": "Dhanishta",
+              "pada": 1
+            },
+            "astangata": null,
+            "rashiAvastha": "enemy",
+            "vargottama": false,
+            "yuddha": null
+          },
+          "Ke": {
+            "longitude": 279.8644324,
+            "latitude": 0,
+            "speed": -0.0242717,
+            "rashi": 10,
+            "degree": 9.8644324,
+            "ascension": 306.0369403,
+            "declination": 19.3200034,
+            "nakshatra": {
+              "anga": "nakshatra",
+              "key": 21,
+              "ratio": 1,
+              "abhijit": false,
+              "left": 1.01675700000011,
+              "name": "Uttara Ashadha",
+              "pada": 4
+            },
+            "astangata": null,
+            "rashiAvastha": "enemy",
+            "vargottama": false,
+            "yuddha": null
+          }
+        }
+      },
+      "3": {
+        "graha": {
+          "Mo": {
+            "longitude": 308.7481214,
+            "latitude": -2.5528736,
+            "speed": 12.5874556,
+            "ascension": 335.5121891,
+            "declination": -12.9264774,
+            "rashi": 11,
+            "degree": 8.7481214,
+            "nakshatra": {
+              "anga": "nakshatra",
+              "key": 24,
+              "ratio": 1,
+              "abhijit": false,
+              "left": 84.3890895000001,
+              "name": "Shatabhisha",
+              "pada": 1
+            },
+            "astangata": false,
+            "rashiAvastha": "neutral",
+            "vargottama": false,
+            "yuddha": null
+          },
+          "Me": {
+            "longitude": 308.6876259,
+            "latitude": -0.8285337,
+            "speed": 1.6301727,
+            "ascension": 334.8175009,
+            "declination": -11.3403604,
+            "rashi": 11,
+            "degree": 8.6876259,
+            "nakshatra": {
+              "anga": "nakshatra",
+              "key": 24,
+              "ratio": 1,
+              "abhijit": false,
+              "left": 84.8428057500001,
+              "name": "Shatabhisha",
+              "pada": 1
+            },
+            "astangata": false,
+            "rashiAvastha": "neutral",
+            "vargottama": false,
+            "yuddha": false
+          }
+        }
+      },
+      "4": {
+        "graha": {
+          "Ma": {
+            "longitude": 332.1940771,
+            "latitude": -0.5968396,
+            "speed": 0.7656859,
+            "ascension": 356.614443,
+            "declination": -2.1169505,
+            "rashi": 12,
+            "degree": 2.19407710000002,
+            "nakshatra": {
+              "anga": "nakshatra",
+              "key": 25,
+              "ratio": 1,
+              "abhijit": false,
+              "left": 8.54442175,
+              "name": "Purva Bhadrapada",
+              "pada": 4
+            },
+            "astangata": false,
+            "rashiAvastha": "friend",
+            "vargottama": false,
+            "yuddha": false
+          }
+        }
+      },
+      "5": {
+        "graha": {
+          "Ju": {
+            "longitude": 4.9059359,
+            "latitude": -1.0903226,
+            "speed": 0.1454743,
+            "ascension": 27.125324,
+            "declination": 10.0158516,
+            "rashi": 1,
+            "degree": 4.9059359,
+            "nakshatra": {
+              "anga": "nakshatra",
+              "key": 1,
+              "ratio": 1,
+              "abhijit": false,
+              "left": 63.20548075,
+              "name": "Ashwini",
+              "pada": 2
+            },
+            "astangata": false,
+            "rashiAvastha": "friend",
+            "vargottama": false,
+            "yuddha": false
+          },
+          "Sa": {
+            "longitude": 17.0437833,
+            "latitude": -2.2668329,
+            "speed": 0.0468192,
+            "ascension": 39.2021592,
+            "declination": 12.9416725,
+            "rashi": 1,
+            "degree": 17.0437833,
+            "nakshatra": {
+              "anga": "nakshatra",
+              "key": 2,
+              "ratio": 1,
+              "abhijit": false,
+              "left": 72.17162525,
+              "name": "Bharani",
+              "pada": 2
+            },
+            "astangata": false,
+            "rashiAvastha": "neecha",
+            "vargottama": false,
+            "yuddha": false
+          }
+        }
+      },
+      "6": {
+        "graha": []
+      },
+      "7": {
+        "graha": []
+      },
+      "8": {
+        "graha": {
+          "Ra": {
+            "longitude": 99.8644324,
+            "latitude": 0,
+            "speed": -0.0242717,
+            "ascension": 126.0369403,
+            "declination": 19.3200034,
+            "rashi": 4,
+            "degree": 9.8644324,
+            "nakshatra": {
+              "anga": "nakshatra",
+              "key": 8,
+              "ratio": 1,
+              "abhijit": false,
+              "left": 51.0167570000001,
+              "name": "Pushya",
+              "pada": 2
+            },
+            "astangata": null,
+            "rashiAvastha": "enemy",
+            "vargottama": false,
+            "yuddha": null
+          }
+        }
+      },
+      "9": {
+        "graha": []
+      },
+      "10": {
+        "graha": []
+      },
+      "11": {
+        "graha": []
+      },
+      "12": {
+        "graha": []
+      }
+    }
+  },
+  "duration_of_response": 0.012,
+  "created_at": "2025-07-31 06:58:02"
+}
