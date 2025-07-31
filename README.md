@@ -27,8 +27,8 @@ Google Gemini AI를 활용한 베다 점성술 차트 해석 서비스입니다.
 
 1. 저장소 클론
 ```bash
-git clone <repository-url>
-cd call-gemini-api
+git clone https://github.com/Cybecho/vedic-astro-call-gemini.git
+cd vedic-astro-call-gemini
 ```
 
 2. 의존성 설치
