@@ -5,6 +5,7 @@
 *.so
 *.dylib
 vedic-astrology-server
+call-gemini-api
 
 # Test binary, built with `go test -c`
 *.test
