@@ -148,7 +148,7 @@ func generateInterpretationHTTP(ctx context.Context, prompt string, chartData in
 		},
 		"generationConfig": map[string]interface{}{
 			"temperature":     0.7,
-			"maxOutputTokens": 1000,
+			"maxOutputTokens": 8192,
 		},
 	}
 
